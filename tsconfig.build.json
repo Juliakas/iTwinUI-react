@@ -1,8 +1,0 @@
-{
-  "extends": "./tsconfig.json",
-  "files": [
-    "src/index.ts",
-    "src/types/custom.d.ts",
-    "src/types/react-table-config.ts"
-  ]
-}
